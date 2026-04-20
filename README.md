@@ -1,2 +1,2 @@
 # READ.me
-java ödevim
+conflict branch yazısı
