@@ -1,3 +1,3 @@
 # READ.me
 java ödevim
-main branch farkli yazi 2
+main branch farkli yazi 3
